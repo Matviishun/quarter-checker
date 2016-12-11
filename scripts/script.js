@@ -35,7 +35,7 @@ function send() {
         print('Point is in the 3rd and in the 4th QUARTERS!');
     }
     else if (x < 0 && y == 0) {
-        print('Point is in the 2st and in the 3rd QUARTERS!');
+        print('Point is in the 2nd and in the 3rd QUARTERS!');
     }
     else if (x > 0 && y == 0) {
         print('Point is in the 1st and in the 4th QUARTERS!');
